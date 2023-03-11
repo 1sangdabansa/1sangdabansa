@@ -1,4 +1,4 @@
-### Hi there 👋
+### 회사 때려치고싶다👋
 
 <!--
 **1sangdabansa/1sangdabansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
